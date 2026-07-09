@@ -1,0 +1,6 @@
+streamlit>=1.40
+requests>=2.31
+folium>=0.17
+streamlit-folium>=0.22
+python-dotenv>=1.0
+streamlit-geolocation>=0.0.10
