@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /tmp)",
+      "Bash(node --input-type=module -e ' *)"
+    ]
+  }
+}
